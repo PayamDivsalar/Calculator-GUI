@@ -1,2 +1,4 @@
 # Calculator-GUI
-calculator gui using java swing.
+simple calculator with GUI using java swing.
+
+![Overview of GUI](https://github.com/PayamDivsalar/Calculator-GUI/blob/main/images/Screenshot%20from%202024-04-24%2017-21-17.png)
