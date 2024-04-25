@@ -1,5 +1,5 @@
 # Calculator-GUI
-simple calculator with GUI using java swing.
+simple GUI calculator using java swing.
 
 
 <h2 align="center"> Overview of GUI </h2>
